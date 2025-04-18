@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tahasib-bin-hossain-276860172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tahasib-bin-hossain-276860172/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zidan.khan.7796/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zidan.khan.7796/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hossain_4564" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="YOUR_CODEFORCES_HANDLE" height="30" width="40" />
+<a href="https://www.codechef.com/users/hossain056" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="YOUR_CODECHEF_HANDLE" height="30" width="40" />
 </a>
 </p>
 
