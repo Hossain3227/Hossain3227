@@ -25,10 +25,16 @@
 ###
 
 
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hossain3227&theme=dracula" height="150" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hossain3227&theme=dracula" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain3227&theme=dracula" alt="GitHub Profile Details" /></td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain3227&theme=dracula" height="150" alt="GitHub Profile Details" />
+</div>
 
 
 ###
