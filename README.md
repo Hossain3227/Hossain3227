@@ -36,7 +36,7 @@
 
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Hossain3227&theme=dracula" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossain3227&theme=dracula&layout=compact" alt="Top Languages" />
 
 
 ###
