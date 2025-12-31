@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossain3227&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Hossain3227&show_icons=true&theme=dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hossain3227&theme=dracula" height="150" alt="GitHub Stats" />
 
 
 ###
