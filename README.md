@@ -36,7 +36,11 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossain3227&theme=dracula&layout=compact" alt="Top Languages" />
+<!-- Repos per language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossain3227&theme=dracula" alt="Top Languages (by repos)" />
+
+<!-- Most used by commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hossain3227&theme=dracula" alt="Top Languages (by commits)" />
 
 
 ###
