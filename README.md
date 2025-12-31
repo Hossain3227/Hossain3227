@@ -37,10 +37,18 @@
 </div>
 
 <!-- Repos per language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossain3227&theme=dracula" alt="Top Languages (by repos)" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossain3227&theme=dracula" alt="Top Languages (by repos)" /> -->
 
 <!-- Most used by commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hossain3227&theme=dracula" alt="Top Languages (by commits)" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hossain3227&theme=dracula" alt="Top Languages (by commits)" /> -->
+
+<div align="center">
+
+| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossain3227&theme=dracula) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hossain3227&theme=dracula) |
+| :--: | :--: |
+| **Languages by Repos** | **Languages by Commits** |
+
+</div>
 
 
 ###
